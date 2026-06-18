@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.7"
+  },
+  "name": "ppm_creo_project",
+  "type": "module",
+  "description": "Repository for the CREO project regarding the PPM module",
+  "version": "1.0.0",
+  "main": "Skills.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://olympus.ntu.ac.uk/n1179668/PPM_CREO_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
