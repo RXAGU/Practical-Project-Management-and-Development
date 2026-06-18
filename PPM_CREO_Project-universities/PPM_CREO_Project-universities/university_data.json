@@ -1,0 +1,1337 @@
+[
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "Cardiff Metropolitan University",
+    "country": "United Kingdom",
+    "website": "https://www.cardiffmet.ac.uk/"
+  },
+  {
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "website": "https://www.durham.ac.uk/"
+  },
+  {
+    "name": "Leeds Trinity University",
+    "country": "United Kingdom",
+    "website": "https://www.leedstrinity.ac.uk/"
+  },
+  {
+    "name": "University of London",
+    "country": "United Kingdom",
+    "website": "https://www.london.ac.uk/"
+  },
+  {
+    "name": "Aberystwyth University",
+    "country": "United Kingdom",
+    "website": "http://www.aber.ac.uk/"
+  },
+  {
+    "name": "Anglia Ruskin University",
+    "country": "United Kingdom",
+    "website": "https://aru.ac.uk/"
+  },
+  {
+    "name": "Anglo-European College of Chiropractic",
+    "country": "United Kingdom",
+    "website": "https://www.aecc.ac.uk/"
+  },
+  {
+    "name": "Arden University",
+    "country": "United Kingdom",
+    "website": "https://arden.ac.uk/"
+  },
+  {
+    "name": "Arts University Bournemouth",
+    "country": "United Kingdom",
+    "website": "https://aub.ac.uk/"
+  },
+  {
+    "name": "Ashridge Business School",
+    "country": "United Kingdom",
+    "website": "https://www.hult.edu/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "Aston University",
+    "country": "United Kingdom",
+    "website": "https://www.aston.ac.uk/"
+  },
+  {
+    "name": "Bangor University",
+    "country": "United Kingdom",
+    "website": "https://www.bangor.ac.uk/"
+  },
+  {
+    "name": "Bath Spa University",
+    "country": "United Kingdom",
+    "website": "https://www.bathspa.ac.uk/"
+  },
+  {
+    "name": "Birkbeck - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.bbk.ac.uk/"
+  },
+  {
+    "name": "Birmingham City University",
+    "country": "United Kingdom",
+    "website": "https://www.bcu.ac.uk/"
+  },
+  {
+    "name": "Bishop Grosseteste University",
+    "country": "United Kingdom",
+    "website": "https://www.bgu.ac.uk/"
+  },
+  {
+    "name": "Bournemouth University",
+    "country": "United Kingdom",
+    "website": "https://www.bournemouth.ac.uk/"
+  },
+  {
+    "name": "BPP University",
+    "country": "United Kingdom",
+    "website": "https://www.bpp.com/"
+  },
+  {
+    "name": "Brunel University London",
+    "country": "United Kingdom",
+    "website": "https://www.brunel.ac.uk/"
+  },
+  {
+    "name": "Buckinghamshire New University",
+    "country": "United Kingdom",
+    "website": "https://www.bucks.ac.uk/"
+  },
+  {
+    "name": "Canterbury Christ Church University",
+    "country": "United Kingdom",
+    "website": "https://www.canterbury.ac.uk/"
+  },
+  {
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "website": "https://www.cardiff.ac.uk/"
+  },
+  {
+    "name": "City - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.city.ac.uk/"
+  },
+  {
+    "name": "Coventry University",
+    "country": "United Kingdom",
+    "website": "https://www.coventry.ac.uk/"
+  },
+  {
+    "name": "Cranfield University",
+    "country": "United Kingdom",
+    "website": "https://www.cranfield.ac.uk/"
+  },
+  {
+    "name": "De Montfort University",
+    "country": "United Kingdom",
+    "website": "https://www.dmu.ac.uk/"
+  },
+  {
+    "name": "Edge Hill University",
+    "country": "United Kingdom",
+    "website": "https://www.edgehill.ac.uk/"
+  },
+  {
+    "name": "Edinburgh Napier University",
+    "country": "United Kingdom",
+    "website": "https://www.napier.ac.uk/"
+  },
+  {
+    "name": "Falmouth University",
+    "country": "United Kingdom",
+    "website": "https://www.falmouth.ac.uk/"
+  },
+  {
+    "name": "Glasgow Caledonian University",
+    "country": "United Kingdom",
+    "website": "https://www.gcu.ac.uk/"
+  },
+  {
+    "name": "Goldsmiths - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.gold.ac.uk/"
+  },
+  {
+    "name": "Guildhall School of Music and Drama",
+    "country": "United Kingdom",
+    "website": "https://www.gsmd.ac.uk/"
+  },
+  {
+    "name": "Harper Adams University",
+    "country": "United Kingdom",
+    "website": "https://www.harper-adams.ac.uk/"
+  },
+  {
+    "name": "Hartpury University",
+    "country": "United Kingdom",
+    "website": "https://www.hartpury.ac.uk/"
+  },
+  {
+    "name": "Heriot-Watt University",
+    "country": "United Kingdom",
+    "website": "https://www.hw.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "website": "https://www.imperial.ac.uk/"
+  },
+  {
+    "name": "Keele University",
+    "country": "United Kingdom",
+    "website": "https://www.keele.ac.uk/"
+  },
+  {
+    "name": "King's College London - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.kcl.ac.uk/"
+  },
+  {
+    "name": "Kingston University",
+    "country": "United Kingdom",
+    "website": "https://www.kingston.ac.uk/"
+  },
+  {
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "website": "https://www.lancaster.ac.uk/"
+  },
+  {
+    "name": "Leeds Arts University",
+    "country": "United Kingdom",
+    "website": "https://www.leeds-art.ac.uk/"
+  },
+  {
+    "name": "Leeds Beckett University",
+    "country": "United Kingdom",
+    "website": "https://www.leedsbeckett.ac.uk/"
+  },
+  {
+    "name": "LIBF",
+    "country": "United Kingdom",
+    "website": "https://onlinedegree.libf.ac.uk/"
+  },
+  {
+    "name": "Liverpool Hope University",
+    "country": "United Kingdom",
+    "website": "https://www.hope.ac.uk/"
+  },
+  {
+    "name": "Liverpool John Moores University",
+    "country": "United Kingdom",
+    "website": "https://www.ljmu.ac.uk/"
+  },
+  {
+    "name": "Liverpool School of Tropical Medicine",
+    "country": "United Kingdom",
+    "website": "https://www.lstmed.ac.uk/"
+  },
+  {
+    "name": "London Business School",
+    "country": "United Kingdom",
+    "website": "http://www.london.edu/"
+  },
+  {
+    "name": "London Metropolitan University",
+    "country": "United Kingdom",
+    "website": "https://www.londonmet.ac.uk/"
+  },
+  {
+    "name": "London School of Economics and Political Science - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.lse.ac.uk/"
+  },
+  {
+    "name": "London South Bank University",
+    "country": "United Kingdom",
+    "website": "https://www.lsbu.ac.uk/"
+  },
+  {
+    "name": "Loughborough University",
+    "country": "United Kingdom",
+    "website": "https://www.lboro.ac.uk/"
+  },
+  {
+    "name": "Manchester Metropolitan University",
+    "country": "United Kingdom",
+    "website": "https://www.mmu.ac.uk/"
+  },
+  {
+    "name": "Middlesex University",
+    "country": "United Kingdom",
+    "website": "https://www.mdx.ac.uk/"
+  },
+  {
+    "name": "NCG",
+    "country": "United Kingdom",
+    "website": "https://www.ncgrp.co.uk/"
+  },
+  {
+    "name": "Newcastle University",
+    "country": "United Kingdom",
+    "website": "https://www.ncl.ac.uk/"
+  },
+  {
+    "name": "Newman University Birmingham",
+    "country": "United Kingdom",
+    "website": "https://www.newman.ac.uk/"
+  },
+  {
+    "name": "Northumbria University",
+    "country": "United Kingdom",
+    "website": "https://www.northumbria.ac.uk/"
+  },
+  {
+    "name": "Norwich University of the Arts",
+    "country": "United Kingdom",
+    "website": "https://www.nua.ac.uk/"
+  },
+  {
+    "name": "Nottingham Trent University",
+    "country": "United Kingdom",
+    "website": "https://www.ntu.ac.uk/"
+  },
+  {
+    "name": "Oxford Brookes University",
+    "country": "United Kingdom",
+    "website": "https://www.brookes.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "Plymouth Marjon University",
+    "country": "United Kingdom",
+    "website": "https://www.marjon.ac.uk/"
+  },
+  {
+    "name": "Queen Margaret University, Edinburgh",
+    "country": "United Kingdom",
+    "website": "https://www.qmu.ac.uk/"
+  },
+  {
+    "name": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "website": "https://www.qmul.ac.uk/"
+  },
+  {
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "website": "https://www.qub.ac.uk/"
+  },
+  {
+    "name": "Queen's University Belfast – St. Mary's University College Belfast",
+    "country": "United Kingdom",
+    "website": "https://www.stmarys-belfast.ac.uk/"
+  },
+  {
+    "name": "Queen's University Belfast – Stranmillis University College",
+    "country": "United Kingdom",
+    "website": "https://www.stran.ac.uk/"
+  },
+  {
+    "name": "Ravensbourne University London",
+    "country": "United Kingdom",
+    "website": "https://www.ravensbourne.ac.uk/"
+  },
+  {
+    "name": "Regent's University London",
+    "country": "United Kingdom",
+    "website": "https://www.regents.ac.uk/"
+  },
+  {
+    "name": "Richmond, The American International University in London",
+    "country": "United Kingdom",
+    "website": "https://www.richmond.ac.uk/"
+  },
+  {
+    "name": "Robert Gordon University",
+    "country": "United Kingdom",
+    "website": "https://www.rgu.ac.uk/"
+  },
+  {
+    "name": "Roehampton University",
+    "country": "United Kingdom",
+    "website": "https://www.roehampton.ac.uk/"
+  },
+  {
+    "name": "Rose Bruford College of Theatre and Performance",
+    "country": "United Kingdom",
+    "website": "https://www.bruford.ac.uk/"
+  },
+  {
+    "name": "Royal Agricultural University",
+    "country": "United Kingdom",
+    "website": "https://www.rau.ac.uk/"
+  },
+  {
+    "name": "Royal College of Art",
+    "country": "United Kingdom",
+    "website": "https://www.rca.ac.uk/"
+  },
+  {
+    "name": "Royal College of Music",
+    "country": "United Kingdom",
+    "website": "https://www.rcm.ac.uk/"
+  },
+  {
+    "name": "Royal Conservatoire of Scotland",
+    "country": "United Kingdom",
+    "website": "https://www.rcs.ac.uk/"
+  },
+  {
+    "name": "Royal Holloway - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.royalholloway.ac.uk/"
+  },
+  {
+    "name": "Royal Northern College of Music",
+    "country": "United Kingdom",
+    "website": "https://www.rncm.ac.uk/"
+  },
+  {
+    "name": "Sheffield Hallam University",
+    "country": "United Kingdom",
+    "website": "https://www.shu.ac.uk/"
+  },
+  {
+    "name": "SOAS University of London",
+    "country": "United Kingdom",
+    "website": "https://www.soas.ac.uk/"
+  },
+  {
+    "name": "Southampton Solent University",
+    "country": "United Kingdom",
+    "website": "https://www.solent.ac.uk/"
+  },
+  {
+    "name": "St. George's - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.sgul.ac.uk/"
+  },
+  {
+    "name": "St. Mary's University Twickenham",
+    "country": "United Kingdom",
+    "website": "https://www.stmarys.ac.uk/"
+  },
+  {
+    "name": "Staffordshire University",
+    "country": "United Kingdom",
+    "website": "https://www.staffs.ac.uk/"
+  },
+  {
+    "name": "Swansea University",
+    "country": "United Kingdom",
+    "website": "https://www.swansea.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "Teesside University",
+    "country": "United Kingdom",
+    "website": "https://www.tees.ac.uk/"
+  },
+  {
+    "name": "The Open University",
+    "country": "United Kingdom",
+    "website": "https://www.open.ac.uk/"
+  },
+  {
+    "name": "The University of Buckingham",
+    "country": "United Kingdom",
+    "website": "https://www.buckingham.ac.uk/"
+  },
+  {
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "website": "https://www.ed.ac.uk/"
+  },
+  {
+    "name": "The University of Law",
+    "country": "United Kingdom",
+    "website": "https://www.law.ac.uk/"
+  },
+  {
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "website": "https://www.manchester.ac.uk/"
+  },
+  {
+    "name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "website": "https://www.sheffield.ac.uk/"
+  },
+  {
+    "name": "Trinity Laban Conservatoire of Music and Dance",
+    "country": "United Kingdom",
+    "website": "https://www.trinitylaban.ac.uk/"
+  },
+  {
+    "name": "UCL - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.ucl.ac.uk/"
+  },
+  {
+    "name": "University College Birmingham",
+    "country": "United Kingdom",
+    "website": "https://www.ucb.ac.uk/"
+  },
+  {
+    "name": "University College of Estate Management",
+    "country": "United Kingdom",
+    "website": "https://www.ucem.ac.uk/"
+  },
+  {
+    "name": "University College of Osteopathy",
+    "country": "United Kingdom",
+    "website": "https://www.uco.ac.uk/"
+  },
+  {
+    "name": "University for the Creative Arts",
+    "country": "United Kingdom",
+    "website": "https://www.uca.ac.uk/"
+  },
+  {
+    "name": "University of Aberdeen",
+    "country": "United Kingdom",
+    "website": "https://www.abdn.ac.uk/"
+  },
+  {
+    "name": "University of Abertay Dundee",
+    "country": "United Kingdom",
+    "website": "https://www.abertay.ac.uk/"
+  },
+  {
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "website": "https://www.bath.ac.uk/"
+  },
+  {
+    "name": "University of Bedfordshire",
+    "country": "United Kingdom",
+    "website": "https://www.beds.ac.uk/"
+  },
+  {
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "website": "https://www.birmingham.ac.uk/"
+  },
+  {
+    "name": "University of Bolton",
+    "country": "United Kingdom",
+    "website": "https://www.bolton.ac.uk/"
+  },
+  {
+    "name": "University of Bradford",
+    "country": "United Kingdom",
+    "website": "https://www.bradford.ac.uk/"
+  },
+  {
+    "name": "University of Brighton",
+    "country": "United Kingdom",
+    "website": "https://www.brighton.ac.uk/"
+  },
+  {
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "website": "https://www.bristol.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "website": "https://www.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Christ's College",
+    "country": "United Kingdom",
+    "website": "https://www.christs.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Churchill College",
+    "country": "United Kingdom",
+    "website": "https://www.chu.cam.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of Cambridge – Clare College",
+    "country": "United Kingdom",
+    "website": "https://www.clare.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Clare Hall",
+    "country": "United Kingdom",
+    "website": "https://www.clarehall.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Corpus Christi College",
+    "country": "United Kingdom",
+    "website": "https://www.corpus.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Darwin College",
+    "country": "United Kingdom",
+    "website": "https://www.darwin.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Downing College",
+    "country": "United Kingdom",
+    "website": "https://www.dow.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Emmanuel College",
+    "country": "United Kingdom",
+    "website": "https://www.emma.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Fitzwilliam College",
+    "country": "United Kingdom",
+    "website": "https://www.fitz.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Girton College",
+    "country": "United Kingdom",
+    "website": "https://www.girton.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Gonville and Caius College",
+    "country": "United Kingdom",
+    "website": "https://www.cai.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Homerton College",
+    "country": "United Kingdom",
+    "website": "https://www.homerton.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Hughes Hall",
+    "country": "United Kingdom",
+    "website": "https://www.hughes.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Jesus College",
+    "country": "United Kingdom",
+    "website": "https://www.jesus.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – King's College",
+    "country": "United Kingdom",
+    "website": "https://www.kings.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Lucy Cavendish College",
+    "country": "United Kingdom",
+    "website": "https://www.lucy-cav.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Magdalene College",
+    "country": "United Kingdom",
+    "website": "http://www.magd.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Murray Edwards College",
+    "country": "United Kingdom",
+    "website": "https://www.murrayedwards.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Newnham College",
+    "country": "United Kingdom",
+    "website": "https://newn.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Pembroke College",
+    "country": "United Kingdom",
+    "website": "https://www.pem.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Peterhouse",
+    "country": "United Kingdom",
+    "website": "https://www.pet.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Queens' College",
+    "country": "United Kingdom",
+    "website": "https://www.queens.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Robinson College",
+    "country": "United Kingdom",
+    "website": "https://www.robinson.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Selwyn College",
+    "country": "United Kingdom",
+    "website": "https://www.sel.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Sidney Sussex College",
+    "country": "United Kingdom",
+    "website": "https://www.sid.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – St. Catharine's College",
+    "country": "United Kingdom",
+    "website": "https://www.caths.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – St. Edmund's College",
+    "country": "United Kingdom",
+    "website": "https://www.st-edmunds.cam.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of Cambridge – St. John's College",
+    "country": "United Kingdom",
+    "website": "https://www.joh.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Trinity College",
+    "country": "United Kingdom",
+    "website": "https://www.trin.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Trinity Hall",
+    "country": "United Kingdom",
+    "website": "https://www.trinhall.cam.ac.uk/"
+  },
+  {
+    "name": "University of Cambridge – Wolfson College",
+    "country": "United Kingdom",
+    "website": "https://www.wolfson.cam.ac.uk/"
+  },
+  {
+    "name": "University of Central Lancashire",
+    "country": "United Kingdom",
+    "website": "https://www.uclan.ac.uk/"
+  },
+  {
+    "name": "University of Chester",
+    "country": "United Kingdom",
+    "website": "https://www1.chester.ac.uk/"
+  },
+  {
+    "name": "University of Chichester",
+    "country": "United Kingdom",
+    "website": "https://www.chi.ac.uk/"
+  },
+  {
+    "name": "University of Cumbria",
+    "country": "United Kingdom",
+    "website": "https://www.cumbria.ac.uk/"
+  },
+  {
+    "name": "University of Derby",
+    "country": "United Kingdom",
+    "website": "https://www.derby.ac.uk/"
+  },
+  {
+    "name": "University of Dundee",
+    "country": "United Kingdom",
+    "website": "https://www.dundee.ac.uk/"
+  },
+  {
+    "name": "University of East Anglia",
+    "country": "United Kingdom",
+    "website": "https://www.uea.ac.uk/"
+  },
+  {
+    "name": "University of East London",
+    "country": "United Kingdom",
+    "website": "http://www.uel.ac.uk/"
+  },
+  {
+    "name": "University of Essex",
+    "country": "United Kingdom",
+    "website": "https://www.essex.ac.uk/"
+  },
+  {
+    "name": "University of Exeter",
+    "country": "United Kingdom",
+    "website": "https://www.exeter.ac.uk/"
+  },
+  {
+    "name": "University of Glasgow",
+    "country": "United Kingdom",
+    "website": "https://www.gla.ac.uk/"
+  },
+  {
+    "name": "University of Gloucestershire",
+    "country": "United Kingdom",
+    "website": "https://www.glos.ac.uk/"
+  },
+  {
+    "name": "University of Greenwich",
+    "country": "United Kingdom",
+    "website": "https://www.gre.ac.uk/"
+  },
+  {
+    "name": "University of Hertfordshire",
+    "country": "United Kingdom",
+    "website": "https://www.herts.ac.uk/"
+  },
+  {
+    "name": "University of Huddersfield",
+    "country": "United Kingdom",
+    "website": "https://www.hud.ac.uk/"
+  },
+  {
+    "name": "University of Hull",
+    "country": "United Kingdom",
+    "website": "https://www.hull.ac.uk/"
+  },
+  {
+    "name": "University of Kent",
+    "country": "United Kingdom",
+    "website": "https://www.kent.ac.uk/"
+  },
+  {
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "website": "https://www.leeds.ac.uk/"
+  },
+  {
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "website": "https://le.ac.uk/"
+  },
+  {
+    "name": "University of Lincoln",
+    "country": "United Kingdom",
+    "website": "https://www.lincoln.ac.uk/"
+  },
+  {
+    "name": "University of Liverpool",
+    "country": "United Kingdom",
+    "website": "https://www.liverpool.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of London – London School of Hygiene and Tropical Medicine - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.lshtm.ac.uk/"
+  },
+  {
+    "name": "University of London – Royal Academy of Music - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.ram.ac.uk/"
+  },
+  {
+    "name": "University of London – Royal Central School of Speech and Drama - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.cssd.ac.uk/"
+  },
+  {
+    "name": "University of London – School of Advanced Study",
+    "country": "United Kingdom",
+    "website": "https://www.sas.ac.uk/"
+  },
+  {
+    "name": "University of London – The Courtauld Institute of Art",
+    "country": "United Kingdom",
+    "website": "https://courtauld.ac.uk/"
+  },
+  {
+    "name": "University of London – The Institute of Cancer Research",
+    "country": "United Kingdom",
+    "website": "https://www.icr.ac.uk/"
+  },
+  {
+    "name": "University of London – The Royal Veterinary College - University of London",
+    "country": "United Kingdom",
+    "website": "https://www.rvc.ac.uk/"
+  },
+  {
+    "name": "University of London – University of London Institute in Paris",
+    "country": "United Kingdom",
+    "website": "https://www.london.ac.uk/institute-in-paris"
+  },
+  {
+    "name": "University of Northampton",
+    "country": "United Kingdom",
+    "website": "https://www.northampton.ac.uk/"
+  },
+  {
+    "name": "University of Nottingham",
+    "country": "United Kingdom",
+    "website": "https://www.nottingham.ac.uk/"
+  },
+  {
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "website": "https://www.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – All Souls College",
+    "country": "United Kingdom",
+    "website": "https://www.asc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Balliol College",
+    "country": "United Kingdom",
+    "website": "https://www.balliol.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Blackfriars",
+    "country": "United Kingdom",
+    "website": "https://www.bfriars.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Brasenose College",
+    "country": "United Kingdom",
+    "website": "https://www.bnc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Campion Hall",
+    "country": "United Kingdom",
+    "website": "https://www.campion.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Christ Church",
+    "country": "United Kingdom",
+    "website": "https://www.chch.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Corpus Christi College",
+    "country": "United Kingdom",
+    "website": "https://www.ccc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Exeter College",
+    "country": "United Kingdom",
+    "website": "https://www.exeter.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Green Templeton College",
+    "country": "United Kingdom",
+    "website": "https://www.gtc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Harris Manchester College",
+    "country": "United Kingdom",
+    "website": "https://www.hmc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Hertford College",
+    "country": "United Kingdom",
+    "website": "https://www.hertford.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Jesus College",
+    "country": "United Kingdom",
+    "website": "https://www.jesus.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Keble College",
+    "country": "United Kingdom",
+    "website": "https://www.keble.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Kellogg College",
+    "country": "United Kingdom",
+    "website": "https://www.kellogg.ox.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of Oxford – Lady Margaret Hall",
+    "country": "United Kingdom",
+    "website": "https://www.lmh.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Linacre College",
+    "country": "United Kingdom",
+    "website": "https://www.linacre.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Lincoln College",
+    "country": "United Kingdom",
+    "website": "http://www.linc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Magdalen College",
+    "country": "United Kingdom",
+    "website": "https://www.magd.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Mansfield College",
+    "country": "United Kingdom",
+    "website": "https://www.mansfield.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Merton College",
+    "country": "United Kingdom",
+    "website": "https://www.merton.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – New College",
+    "country": "United Kingdom",
+    "website": "https://www.new.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Nuffield College",
+    "country": "United Kingdom",
+    "website": "http://www.nuff.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Oriel College",
+    "country": "United Kingdom",
+    "website": "https://www.oriel.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Pembroke College",
+    "country": "United Kingdom",
+    "website": "https://www.pmb.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Regent's Park College",
+    "country": "United Kingdom",
+    "website": "http://www.rpc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Somerville College",
+    "country": "United Kingdom",
+    "website": "https://www.some.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Anne's College",
+    "country": "United Kingdom",
+    "website": "https://www.st-annes.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Antony's College",
+    "country": "United Kingdom",
+    "website": "https://www.sant.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Benet's Hall",
+    "country": "United Kingdom",
+    "website": "https://www.st-benets.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Catherine's College",
+    "country": "United Kingdom",
+    "website": "https://www.stcatz.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Cross College",
+    "country": "United Kingdom",
+    "website": "https://www.stx.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Edmund Hall",
+    "country": "United Kingdom",
+    "website": "https://www.seh.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Hilda's College",
+    "country": "United Kingdom",
+    "website": "https://www.st-hildas.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Hugh's College",
+    "country": "United Kingdom",
+    "website": "https://www.st-hughs.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. John's College",
+    "country": "United Kingdom",
+    "website": "https://www.sjc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Peter's College",
+    "country": "United Kingdom",
+    "website": "https://www.spc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – St. Stephen's House",
+    "country": "United Kingdom",
+    "website": "https://www.ssho.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – The Queen's College",
+    "country": "United Kingdom",
+    "website": "https://www.queens.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Trinity College",
+    "country": "United Kingdom",
+    "website": "https://www.trinity.ox.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of Oxford – University College",
+    "country": "United Kingdom",
+    "website": "https://www.univ.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Wadham College",
+    "country": "United Kingdom",
+    "website": "https://www.wadham.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Wolfson College",
+    "country": "United Kingdom",
+    "website": "http://www.wolfson.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Worcester College",
+    "country": "United Kingdom",
+    "website": "https://www.worc.ox.ac.uk/"
+  },
+  {
+    "name": "University of Oxford – Wycliffe Hall",
+    "country": "United Kingdom",
+    "website": "https://www.wycliffe.ox.ac.uk/"
+  },
+  {
+    "name": "University of Plymouth",
+    "country": "United Kingdom",
+    "website": "https://www.plymouth.ac.uk/"
+  },
+  {
+    "name": "University of Portsmouth",
+    "country": "United Kingdom",
+    "website": "https://www.port.ac.uk/"
+  },
+  {
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "website": "https://www.reading.ac.uk/"
+  },
+  {
+    "name": "University of Salford",
+    "country": "United Kingdom",
+    "website": "https://www.salford.ac.uk/"
+  },
+  {
+    "name": "University of South Wales",
+    "country": "United Kingdom",
+    "website": "https://www.southwales.ac.uk/"
+  },
+  {
+    "name": "University of South Wales – Royal Welsh College of Music and Drama",
+    "country": "United Kingdom",
+    "website": "https://www.rwcmd.ac.uk/"
+  },
+  {
+    "name": "University of Southampton",
+    "country": "United Kingdom",
+    "website": "https://www.southampton.ac.uk/"
+  },
+  {
+    "name": "University of St. Andrews",
+    "country": "United Kingdom",
+    "website": "https://www.st-andrews.ac.uk/"
+  },
+  {
+    "name": "University of Stirling",
+    "country": "United Kingdom",
+    "website": "https://www.stir.ac.uk/"
+  },
+  {
+    "name": "University of Strathclyde",
+    "country": "United Kingdom",
+    "website": "https://www.strath.ac.uk/"
+  },
+  {
+    "name": "University of Suffolk",
+    "country": "United Kingdom",
+    "website": "https://www.uos.ac.uk/"
+  },
+  {
+    "name": "University of Sunderland",
+    "country": "United Kingdom",
+    "website": "https://www.sunderland.ac.uk/"
+  },
+  {
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "website": "https://www.surrey.ac.uk/"
+  },
+  {
+    "name": "University of Sussex",
+    "country": "United Kingdom",
+    "website": "http://www.sussex.ac.uk/"
+  },
+  {
+    "name": "University of the Arts London",
+    "country": "United Kingdom",
+    "website": "https://www.arts.ac.uk/"
+  },
+  {
+    "name": "University of the Highlands and Islands",
+    "country": "United Kingdom",
+    "website": "https://www.uhi.ac.uk/"
+  },
+  {
+    "name": "University of the West of England",
+    "country": "United Kingdom",
+    "website": "https://www.uwe.ac.uk/"
+  },
+  {
+    "name": "University of the West of Scotland",
+    "country": "United Kingdom",
+    "website": "https://www.uws.ac.uk/"
+  },
+  {
+    "name": "University of Ulster",
+    "country": "United Kingdom",
+    "website": "https://www.ulster.ac.uk/"
+  },
+  {
+    "name": "University of Wales",
+    "country": "United Kingdom",
+    "website": "https://www.wales.ac.uk/"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "No name found",
+    "country": "No country found",
+    "website": "No website found"
+  },
+  {
+    "name": "University of Wales Trinity Saint David",
+    "country": "United Kingdom",
+    "website": "https://www.uwtsd.ac.uk/"
+  },
+  {
+    "name": "University of Warwick",
+    "country": "United Kingdom",
+    "website": "https://warwick.ac.uk/"
+  },
+  {
+    "name": "University of West London",
+    "country": "United Kingdom",
+    "website": "https://www.uwl.ac.uk/"
+  },
+  {
+    "name": "University of Westminster",
+    "country": "United Kingdom",
+    "website": "https://www.westminster.ac.uk/"
+  },
+  {
+    "name": "University of Winchester",
+    "country": "United Kingdom",
+    "website": "https://www.winchester.ac.uk/"
+  },
+  {
+    "name": "University of Wolverhampton",
+    "country": "United Kingdom",
+    "website": "https://www.wlv.ac.uk/"
+  },
+  {
+    "name": "University of Worcester",
+    "country": "United Kingdom",
+    "website": "https://www.worcester.ac.uk/"
+  },
+  {
+    "name": "University of York",
+    "country": "United Kingdom",
+    "website": "https://www.york.ac.uk/"
+  },
+  {
+    "name": "Wrexham University",
+    "country": "United Kingdom",
+    "website": "https://wrexham.ac.uk/"
+  },
+  {
+    "name": "York St. John University",
+    "country": "United Kingdom",
+    "website": "https://www.yorksj.ac.uk/"
+  }
+]
